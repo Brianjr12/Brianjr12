@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Brianjr12
 - 👨🏻‍💻 I am interested in learning new technologies.
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning React js
 - ✉  brianojedadiaz1204@gmail.com
