@@ -17,7 +17,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `I am a Full Stack web developer, graduate from soyhenry` <picture> <img align="center" src="https://assets.soyhenry.com/LOGO-REDES-01_og.jpg" width = 80px></picture>
+- :trophy: `I am a Full Stack web developer, graduate from soyhenry` <a href="https://www.soyhenry.com/webfullstack"> <picture> <img align="center" src="https://assets.soyhenry.com/LOGO-REDES-01_og.jpg" width = 50px></picture> <a/>
 - :technologist: **Currently working on** `Full Stack web developer` **&** `Cibersecurity`
 - :boom: You can visit [MY WEBSITE]() for some frontend knowledge
 - :email: Feel free to **reach me out** `brianojeda1204@gmail.com`
