@@ -26,19 +26,14 @@
 
 <br>
 
-## :email: My networks
+:email: My networks
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Net
 
-<p align="center">
-  <a href="www.linkedin.com/in/brian-ojeda-07275a284">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href=t"">
-    <img src="https://skillicons.dev/icons?i=email" />
-    <p> brianojeda1204@gmail.com </p>
-  </a>
-</p>
+<p align="left">
+<a href="www.linkedin.com/in/brian-ojeda-07275a284" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "brianojeda1204@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind)](https://skillicons.dev)
