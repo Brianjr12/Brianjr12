@@ -29,7 +29,7 @@
 
 
 <p align="left">
-<a href="www.linkedin.com/in/brian-ojeda-07275a284" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brianojeda"/></a>
+<a href="https://www.linkedin.com/in/brian-ojeda-07275a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brianojeda"/></a>
 <a href = "mailto:brianojeda1204@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="brianojeda"  /></a>
   </p>
 
