@@ -1,5 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<script src="https://gist.github.com/rxaviers/7360908.js"></script>
 
 <!--h1 without bottom border-->
 
@@ -25,11 +26,19 @@
 
 <br>
 
-## 🛠️ My Skills
+## :email: My networks
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Net
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript)](https://skillicons.dev)
+<p align="center">
+  <a href="www.linkedin.com/in/brian-ojeda-07275a284">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href=t"">
+    <img src="https://skillicons.dev/icons?i=email" />
+    <p> brianojeda1204@gmail.com </p>
+  </a>
+</p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind)](https://skillicons.dev)
@@ -92,10 +101,4 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
------------
-
-Credit: [ElioChiu](https://github.com/ElioChiu)
-
-Last Edited on: 10/7/2023
 
