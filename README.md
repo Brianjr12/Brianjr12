@@ -36,11 +36,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,bootstrap)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Backend Development
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,express,sequelize,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,sequelize,php,laravel,mysql,postgresql)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,postman,jest,vercel,vscode,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,postman,bash)](https://skillicons.dev)
 
 <br>
 
