@@ -19,7 +19,7 @@
 - :trophy: `I am a web developer`
 - :school: I am a 'student' of [Cybersecurity](https://fisc.utp.ac.pa/licenciatura-en-ciberseguridad) in [UTP](https://utp.ac.pa/)
 - :technologist: **Currently working on** `Full Stack web developer` **&** `Cibersecurity`
-- :boom: You can visit [MY WEBSITE]() to know my projects
+- <!-- :boom: You can visit [MY WEBSITE]() to know my projects -->
 - :email: Feel free to **reach me out** `brianojeda1204@gmail.com`
 
 <br>
